@@ -1,4 +1,4 @@
-## VIP Performance Tracker (Demo below)
+## Performance Tracker (Demo below)
 
 A client-side operations dashboard that turns a flat ticketing export (Zendesk, or any CSV) into a filterable, gamified view of agent productivity across markets, shifts and operations.
 
@@ -8,7 +8,7 @@ Performance for a large multi-market support team was tracked in a manually main
 
 ## The Solution
 
-VIP Performance Tracker ingests the ticket export and renders it as an interactive dashboard with five views:
+Performance Tracker ingests the ticket export and renders it as an interactive dashboard with five views:
 
 - **Overview** — team KPIs, a gamified tier board per operation (a "floor" model: an operation only turns fully gold when *every* agent clears the gold threshold), the daily points trend, and a sortable, groupable agent leaderboard.
 - **Projection** — linear month-to-date extrapolation of each agent's points to end of month, against the gold target.
@@ -30,10 +30,10 @@ It ships with a deterministic synthetic dataset (48 agents, 4 operations, 10 mar
 
 ## Demo
 
-**Live:** https://sebastianvalenza.github.io/vip-performance-tracker/
+**Live:** https://sebastianvalenza.github.io/performance-tracker/
 
-![Overview — operation tiers and agent leaderboard](https://github.com/Sebastianvalenza/vip-performance-tracker/blob/main/docs/VPT%20Overview.png)
-![History tab — Weekly and monthly performance](https://github.com/Sebastianvalenza/vip-performance-tracker/blob/main/docs/VPT%20History%20tab.png)
+![Overview — operation tiers and agent leaderboard](https://github.com/Sebastianvalenza/performance-tracker/blob/main/docs/VPT%20Overview.png)
+![History tab — Weekly and monthly performance](https://github.com/Sebastianvalenza/performance-tracker/blob/main/docs/VPT%20History%20tab.png)
 
 ## Impact
 
